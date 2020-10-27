@@ -1,4 +1,4 @@
-Computer Engineering Project - Semester 5 -Third year project
+# Computer Engineering Project - Semester 5 -Third year project
 
 Group 11
 
@@ -13,3 +13,5 @@ Cashier takes time to billing ,so long queues at the counters in supermarkets. S
 
 Solution:
 Introducing smart shopping cart with automatic bill system
+
+
