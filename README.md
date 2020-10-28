@@ -80,3 +80,17 @@ The following situations are handled using a combination of weight sensors and l
 
 Two way monitoring system (laser and weight) therefore increases the accuracy of the shopping process.
 ![](Images/process.PNG)
+
+#### Advising Lecturers:
+
+* Dr. Isuru Nawinne
+* Dr. Ziyan Maraikar
+
+
+#### Links:
+
+* [Department of Computer Engineering](http://www.ce.pdn.ac.lk)
+* [Faculty of Engineering](http://eng.pdn.ac.lk)
+* [University of Peradeniya](https://www.pdn.ac.lk/)
+
+
