@@ -57,6 +57,7 @@ To solve that problem we are going to introduce an _app._
 ## Solution Architecture :
 
 The following diagram depicts how the major 3 sections are connected.
+![](Images/big_picture.PNG)
 
 When designing the smart shopping cart, attention was paid to following aspects.
 
@@ -78,3 +79,4 @@ The following situations are handled using a combination of weight sensors and l
 **- customer scanned the item ,but not added to the cart :** Laser interrupted &amp; weight in the cart does not match the calculated weight in the bill
 
 Two way monitoring system (laser and weight) therefore increases the accuracy of the shopping process.
+![](Images/process.PNG)
