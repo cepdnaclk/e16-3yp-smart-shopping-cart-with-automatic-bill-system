@@ -59,7 +59,14 @@ To solve that problem we are going to introduce an _app._
 The following diagram depicts how the major 3 sections are connected.
 ![](Images/big_picture.PNG)
 
-When designing the smart shopping cart, attention was paid to following aspects.
+
+
+---
+
+
+
+
+### When designing the smart shopping cart, attention was paid to following aspects.
 
 - Customer&#39;s convenience
 - Reliable monitoring of the customer
@@ -81,6 +88,9 @@ The following situations are handled using a combination of weight sensors and l
 Two way monitoring system (laser and weight) therefore increases the accuracy of the shopping process.
 ![](Images/process.PNG)
 
+
+
+--- 
 #### Advising Lecturers:
 
 * Dr. Isuru Nawinne
