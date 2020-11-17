@@ -43,7 +43,25 @@ class _ProductsState extends State<Products> {
       "old price": "220",
       "price": "180",
       "about": "Marina rice flour 1kg is the best"
-    }
+    },
+    {
+      "name": "Maliban cheese bits 170g",
+      "picture": "images/cheesebits.jpg",
+      "category": "groceries",
+      "old price": "180",
+      "price": "180",
+      "about":
+          "Our very own party starter: This assortment of fun-filled and exciting range of snacks including Chick Bits, Cheese Bits and Kritz comes in a range of varied flavours to entice the taste buds and be the life of any occasion. Also available in different sizes and come in ready-to-eat sachets and tins."
+    },
+    {
+      "name": "Munchee snack crackers 260g",
+      "picture": "images/snackcracker.jpg",
+      "category": "groceries",
+      "old price": "310",
+      "price": "310",
+      "about":
+          "Dipped, topped or served with accompaniments, this crispy golden coloured cracker is great for any snack!"
+    },
   ];
   @override
   Widget build(BuildContext context) {
