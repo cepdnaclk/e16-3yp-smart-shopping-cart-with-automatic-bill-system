@@ -17,5 +17,5 @@
 
  # How to Run
  
- -npm install
- -npm run electron
+ npm install .
+ npm run electron.
