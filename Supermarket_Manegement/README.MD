@@ -4,8 +4,7 @@
  
   **Features:**
 
-- Can be used by multiple PC's on a network with one central database.
-- Receipt Printing.
+- Can be used by Pc on a network with local database.
 - Search for product by barcode.
 - Staff accounts and permissions. 
 - Products and Categories.
@@ -16,7 +15,7 @@
 - Filter Transactions by Till, Cashier or Status. 
 - Filter Transactions by Date Range. 
 
- #How to Run
+ # How to Run
  
  npm install
  npn run electron
