@@ -1,6 +1,6 @@
 
 # Supermarket Manegement System
- Desktop Point of Sale app built with electron
+ Desktop Aplicatin built with electron to done manegement
  
   **Features:**
 
