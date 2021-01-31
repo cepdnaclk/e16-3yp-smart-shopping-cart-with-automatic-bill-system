@@ -17,5 +17,5 @@
 
  # How to Run
  
- - Can be used by Pc on a network with local database.
-- Search for product by barcode.
+ - npm install.
+- npm run electron.
