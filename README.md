@@ -9,7 +9,7 @@ E/16/267 – Parackrama G.T.W. e16267@eng.pdn.ac.lk
 
 E/16/290 – Prabodha U.A.K. e16290@eng.pdn.ac.lk
 
-### [Visit our web site](https://cepdnaclk.github.io/e16-3yp-smart-shopping-cart-with-automatic-bill-system/test_index.html)
+### [Visit our web site](https://sites.google.com/view/smart-shoppingcart)
 
 
 
