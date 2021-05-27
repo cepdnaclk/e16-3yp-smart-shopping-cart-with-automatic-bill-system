@@ -6,20 +6,23 @@
  This App comes with numerous features designed for the customers of the super-markets that are using our product , the 'EasyCart'.
  
   **User-friendly UI s:**
-  
-  
-  ![](srcImg/ss1.PNG)                                        ![](srcImg/ss2.PNG)
-  
-  
-  
-  
-  
+   <p align="center">
+   <img  src="srcImg/ss1.PNG" alt="ss1" width="350"/>
+   </p>
+   <p align="center">
+   <img src="srcImg/ss2.PNG" alt="ss2" width="350"/>
+   </p>
   
   
   
+    
   
   
   -Comes with general features of any e-commerce app with the added advantage of 'connect with the cart' facility.
+  
+  
+  
+  
   
   
   
@@ -30,9 +33,9 @@
 -Just the scan the cart QR and you are one click away.
 
 
-![](srcImg/ss3.PNG)
-  
-
+  <p align="center">
+  <img src="srcImg/ss3.PNG" alt="ss3" width="350"/>
+  </p>
 
 
 
