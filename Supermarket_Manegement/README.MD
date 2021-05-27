@@ -21,4 +21,4 @@
 - npm run electron.
 
 #Installation dependencies mqtt
-npm install mqtt --save
+-npm install mqtt --save
