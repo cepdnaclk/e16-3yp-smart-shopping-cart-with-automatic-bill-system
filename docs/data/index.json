@@ -1,0 +1,41 @@
+{
+    "title": "e16-3yp-smart-shopping-cart-with-automatic-bill-system",
+    "team": [
+        {
+            "name": "Ekanayake J.E.M.D.Y.",
+            "email": "e16096@eng.pdn.ac.lk",
+            "eNumber": "E/16/096",
+            "github_profile":"",
+            "linkedin_profile":"https://www.linkedin.com/in/dulmini-ekanayake-500a071a6"
+        },
+        {
+            "name": "Parackrama G.T.W.",
+            "email": "e16267@eng.pdn.ac.lk",
+            "eNumber": "E/16/267",
+            "github_profile":"#",
+            "linkedin_profile":"www.linkedin.com/in/wasana-parackrama-8b2b3b197"
+        },
+        {
+            "name": "Prabodha U.A.K.",
+            "email": "e16290@eng.pdn.ac.lk",
+            "eNumber": "E/16/290",
+            "github_profile":"#",
+            "linkedin_profile":"https://www.linkedin.com/in/kalani-prabodha-743505203/"
+        }
+    ],
+    "supervisors": [
+        {
+            "name": "Dr. Isuru Nawinne",
+            "email": "isurunawinne@eng.pdn.ac.lk",
+            "linkedin_profile":"#",
+            "researchgate_profile":"#"
+        },
+        {
+            "name": "Dr. Ziyan Maraikar ",
+            "email": "ziyanm@eng.pdn.ac.lk",
+            "linkedin_profile":"#",
+            "researchgate_profile":"#"
+        }
+    ],
+    "tags": ["Web", "Embedded Systems","shopping cart","app"]
+}
